@@ -1,0 +1,9 @@
+aside {
+  float: none;
+  margin: 0 auto;
+}
+@media (max-width: 400px) {
+  aside {
+    margin-left: 0.3rem;
+  }
+}
